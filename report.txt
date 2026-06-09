@@ -1,0 +1,33 @@
+TASK 2: API INTEGRATION & JSON HANDLING
+
+Objective:
+The objective of this task is to learn how to fetch data from an API and handle JSON data using Python.
+
+Description:
+In this task, I worked with the Random User API to fetch dynamic user data from the internet. The data returned by the API is in JSON format, which was parsed and processed using Python.
+
+Tools & Technologies Used:
+- Python 3
+- Requests Library
+- Random User API
+- JSON Handling
+
+Implementation Steps:
+1. Installed the requests library using pip.
+2. Used the Random User API to fetch data.
+3. Sent a GET request using requests.get().
+4. Converted the response into JSON format using .json().
+5. Extracted required fields such as name, email, and country.
+6. Displayed the output in a structured format.
+
+Key Learnings:
+- Understanding of API integration in Python
+- Working with JSON data
+- Data extraction from nested structures
+- Basic error handling (optional improvement)
+
+Output:
+Successfully displayed random user details including name, email, and country.
+
+Conclusion:
+This task helped me understand how real-world applications fetch and process data using APIs and how JSON is used as a standard data format.
